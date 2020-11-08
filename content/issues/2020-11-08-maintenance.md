@@ -6,6 +6,9 @@ resolved: true
 draft: false
 informational: false
 resolvedWhen: 2020-11-08T14:04:48.300Z
+affected:
+  - MAIN
+  - BACKEND
 severity: disrupted
 ---
 *This is a planned maintenance*
