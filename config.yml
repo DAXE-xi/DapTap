@@ -21,6 +21,8 @@ params:
       category: "DapTap CA server "
     - name: VPS panel
       category: "DapTap CA server "
+    - name: MAIN
+      category: "DapTap CA server "
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
