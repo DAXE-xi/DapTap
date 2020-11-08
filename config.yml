@@ -9,6 +9,8 @@ params:
   systems:
     - name: "Panel "
       category: "GAME SERVERS "
+      description: This is the Game Server Panel where you can mange Game services
+      partial: TEST
     - name: BACKEND
       category: "GAME SERVERS "
     - name: "APIs "
