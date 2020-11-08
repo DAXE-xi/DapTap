@@ -3,9 +3,10 @@ section: issue
 title: Issues Sending DMs
 date: 2017-12-17 16:24:00
 resolved: true
+draft: true
 resolvedWhen: 2017-12-17 16:58:00
 affected: []
-severity: notice
+severity: disrupted
 ---
 
 *Update* - This incident has been resolved.
