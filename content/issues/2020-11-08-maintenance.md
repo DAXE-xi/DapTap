@@ -10,6 +10,7 @@ affected:
   - MAIN
   - BACKEND
   - Panel
+  - ""
 severity: down
 ---
 *This is a planned maintenance*
