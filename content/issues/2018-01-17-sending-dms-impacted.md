@@ -5,7 +5,7 @@ date: 2017-12-17 16:24:00
 resolved: false
 resolvedWhen: 2017-12-17 16:58:00
 affected: []
-severity: down
+severity: disrupted
 ---
 
 *Update* - This incident has been resolved.
