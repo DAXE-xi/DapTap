@@ -17,6 +17,8 @@ params:
       category: "WEBSITE "
     - name: Website Backend
       category: "WEBSITE "
+    - name: VPS
+      category: "DapTap CA server "
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
@@ -34,7 +36,7 @@ params:
   categories:
     - name: "GAME SERVERS "
     - name: "WEBSITE "
-    - name: Servers
+    - name: "DapTap CA server "
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
