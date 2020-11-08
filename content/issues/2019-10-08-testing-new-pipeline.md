@@ -8,7 +8,7 @@ informational: true
 resolvedWhen: 2019-10-05 16:58:00
 affected:
   - API
-severity: disrupted
+severity: notice
 ---
 
 There may be disruptions in the rollout.
