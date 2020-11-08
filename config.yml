@@ -13,6 +13,10 @@ params:
       category: "GAME SERVERS "
     - name: "APIs "
       category: "GAME SERVERS "
+    - name: Website Frontend
+      category: "WEBSITE "
+    - name: Website Backend
+      category: "WEBSITE "
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
@@ -29,6 +33,8 @@ params:
   ok: "#008000"
   categories:
     - name: "GAME SERVERS "
+    - name: "WEBSITE "
+    - name: Servers
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
