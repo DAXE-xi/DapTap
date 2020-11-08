@@ -9,6 +9,10 @@ params:
   systems:
     - name: "Panel "
       category: "GAME SERVERS "
+    - name: BACKEND
+      category: "GAME SERVERS "
+    - name: "APIs "
+      category: "GAME SERVERS "
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
