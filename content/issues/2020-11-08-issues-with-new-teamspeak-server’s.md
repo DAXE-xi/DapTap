@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 resolvedWhen: 2020-11-08T14:38:08.733Z
-severity: notice
+severity: disrupted
 ---
 The issue was reported
 11/6/2020 6:00pm est 
